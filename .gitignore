@@ -40,3 +40,7 @@ buildNumber.properties
 .classpath
 .project
 .settings/
+
+# idea
+.idea/
+*.iml
